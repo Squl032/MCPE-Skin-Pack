@@ -1,0 +1,63 @@
+skinpack.PersonalCollection=我的動漫與迷因收藏
+
+skin.PersonalCollection.anon_mygo=千早愛音 (MyGO!!!!!)
+skin.PersonalCollection.anon_casual=千早愛音 (私服)
+skin.PersonalCollection.anon_pink_dragon=千早愛音 (粉毛奶龍)
+skin.PersonalCollection.anon_haneoka=千早愛音 (羽丘制服)
+
+skin.PersonalCollection.dewier_mcc_cape=Dewier (MCC 15th 披風)
+skin.PersonalCollection.dewier_exp_cape=Dewier (Experience 披風)
+
+skin.PersonalCollection.donald_trump=Donald Trump
+skin.PersonalCollection.epstein=Jeffrey Epstein
+
+# 根據數字檔名判斷為 Ave Mujica 演出服
+skin.PersonalCollection.mutsumi_mortis=若葉睦 (Mortis/演出服)
+skin.PersonalCollection.mutsumi_summer=若葉睦 (月之森夏季)
+skin.PersonalCollection.mutsumi_winter=若葉睦 (月之森秋冬)
+skin.PersonalCollection.mutsumi_base=若葉睦 (一般)
+
+skin.PersonalCollection.momoka=河原木桃香 (GBC)
+
+skin.PersonalCollection.nina_stage=井芹仁菜 (GBC演出服)
+skin.PersonalCollection.nina_stage_2=井芹仁菜 (演出服 V2)
+skin.PersonalCollection.nina_blink=井芹仁菜 (眨眼版)
+
+# 根據英文檔名判斷為 Ave Mujica 演出服
+skin.PersonalCollection.nyamu_amoris=祐天寺若麥 (Amoris/演出服)
+skin.PersonalCollection.nyamu_base=祐天寺若麥 (一般)
+
+skin.PersonalCollection.rana_mygo=要樂奈 (MyGO!!!!!)
+skin.PersonalCollection.rana_etf=要樂奈 (ETF/眨眼版)
+
+skin.PersonalCollection.rupa=魯帕 (GBC)
+
+# 根據數字檔名判斷為 Ave Mujica 演出服
+skin.PersonalCollection.sakiko_oblivionis=豐川祥子 (Oblivionis/演出服)
+skin.PersonalCollection.sakiko_tsukinomori=豐川祥子 (月之森制服)
+skin.PersonalCollection.sakiko_haneoka=豐川祥子 (羽丘制服)
+
+skin.PersonalCollection.soyo=長崎爽世 (一般)
+
+skin.PersonalCollection.subaru_liar=安和昴 (虛假之唇/演出服)
+skin.PersonalCollection.subaru_casual=安和昴 (私服)
+skin.PersonalCollection.subaru_base=安和昴 (一般)
+
+skin.PersonalCollection.taki_base=椎名立希 (一般)
+skin.PersonalCollection.taki_casual=椎名立希 (私服)
+
+skin.PersonalCollection.tomo=海老塚智 (GBC)
+
+skin.PersonalCollection.tomori_casual=高松燈 (私服)
+skin.PersonalCollection.tomori_summer=高松燈 (羽丘夏季)
+skin.PersonalCollection.tomori_haneoka=高松燈 (羽丘制服)
+
+# 根據英文檔名判斷為 Ave Mujica 演出服
+skin.PersonalCollection.uika_doloris=三角初華 (Doloris/演出服)
+skin.PersonalCollection.uika_sumimi=三角初華 (sumimi)
+skin.PersonalCollection.uika_casual=三角初華 (私服)
+skin.PersonalCollection.uika_winter=三角初華 (花咲川秋冬)
+
+skin.PersonalCollection.umiri_base=八幡海鈴 (一般)
+skin.PersonalCollection.umiri_timoris=八幡海鈴 (Timoris/演出服)
+skin.PersonalCollection.umiri_hanasakigawa=八幡海鈴 (花咲川制服)

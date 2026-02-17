@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "MyGO!!!!! & Ave Mujica & GBC",
+        "description": "It's MyGO!!!!! & Ave Mujica & GBC skin pack",
+        "version": [
+            1,
+            0,
+            1
+        ],
+        "uuid": "ada9138b-eeee-4abd-b571-cdbb088133b0"
+    },
+    "modules": [
+        {
+            "version": [
+                1,
+                0,
+                1
+            ],
+            "type": "skin_pack",
+            "uuid": "9aad3346-f2f4-4744-a87d-65583466d4a3"
+        }
+    ]
+}
