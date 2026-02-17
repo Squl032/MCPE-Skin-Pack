@@ -19,6 +19,9 @@
             "geometry": "geometry.humanoid.customSlim",
             "texture": "src/Anon/Anon_3.png",
             "type": "free",
+            "animations": {
+                "move.arms": "animation.player.move.arms.zombie"
+            },
             "localization_name": "Anon_3"
         },
         {
@@ -26,6 +29,12 @@
             "texture": "src/Anon/Anon_4.png",
             "type": "free",
             "localization_name": "Anon_4"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "src/Anon/Anon_5.png",
+            "type": "free",
+            "localization_name": "Anon_5"
         },
         {
             "geometry": "geometry.humanoid.custom",
