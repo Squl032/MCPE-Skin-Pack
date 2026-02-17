@@ -3,252 +3,256 @@
     "localization_name": "PersonalCollection",
     "skins": [
         {
-            "localization_name": "anon_mygo",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/[FSL] 千早爱音Anon MyGo.png",
-            "type": "free"
+            "texture": "src/Anon/Anon_1.png",
+            "type": "free",
+            "localization_name": "Anon_1"
         },
         {
-            "localization_name": "anon_casual",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/[FSL] 千早爱音Anon 私服.png",
-            "type": "free"
+            "texture": "src/Anon/Anon_2.png",
+            "type": "free",
+            "localization_name": "Anon_2"
         },
         {
-            "localization_name": "anon_pink_dragon",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/[FSL] 千早爱音Anon 粉毛奶龙-眨眼修复.png",
-            "type": "free"
+            "texture": "src/Anon/Anon_3.png",
+            "type": "free",
+            "localization_name": "Anon_3"
         },
         {
-            "localization_name": "anon_haneoka",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/[FSL] 千早爱音Anon 羽丘重置.png",
-            "type": "free"
+            "texture": "src/Anon/Anon_4.png",
+            "type": "free",
+            "localization_name": "Anon_4"
         },
         {
-            "localization_name": "dewier_mcc_cape",
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/Dewier/dewier.png",
-            "cape": "src/Dewier/MCC_15th_Year_Cape_(texture)_BE.png",
-            "type": "free"
+            "texture": "src/Dewier/Dewier_1.png",
+            "type": "free",
+            "localization_name": "Dewier_1"
         },
         {
-            "localization_name": "dewier_exp_cape",
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/Dewier/dewier.png",
-            "cape": "src/Dewier/Minecraft_Experience_Cape_(texture).png",
-            "type": "free"
+            "texture": "src/Dewier/Dewier_2.png",
+            "type": "free",
+            "localization_name": "Dewier_2"
         },
         {
-            "localization_name": "donald_trump",
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/DT/DonaldTrump.png",
-            "type": "free"
+            "texture": "src/Dewier/Dewier_3.png",
+            "type": "free",
+            "localization_name": "Dewier_3"
         },
         {
-            "localization_name": "epstein",
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/JE/Epstein.png",
-            "type": "free"
+            "texture": "src/DT/DT_1.png",
+            "type": "free",
+            "localization_name": "DT_1"
         },
         {
-            "localization_name": "mutsumi_mortis",
-            "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/1000107208-18558256.png",
-            "type": "free"
+            "geometry": "geometry.humanoid.custom",
+            "texture": "src/JE/JE_1.png",
+            "type": "free",
+            "localization_name": "JE_1"
         },
         {
-            "localization_name": "mutsumi_summer",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/[FSL] 若叶睦Mutsumi 月之森夏季制服.png",
-            "type": "free"
+            "texture": "src/MM/MM_1.png",
+            "type": "free",
+            "localization_name": "MM_1"
         },
         {
-            "localization_name": "mutsumi_winter",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/[FSL] 若叶睦Mutsumi 月之森秋冬制服.png",
-            "type": "free"
+            "texture": "src/MM/MM_2.png",
+            "type": "free",
+            "localization_name": "MM_2"
         },
         {
-            "localization_name": "mutsumi_base",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/若叶睦.png",
-            "type": "free"
+            "texture": "src/MM/MM_3.png",
+            "type": "free",
+            "localization_name": "MM_3"
         },
         {
-            "localization_name": "momoka",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Momoka/[少女乐队的呐喊]河原木桃香mmk.png",
-            "type": "free"
+            "texture": "src/MM/MM_4.png",
+            "type": "free",
+            "localization_name": "MM_4"
         },
         {
-            "localization_name": "nina_stage",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nina/GirlsBandCry  Nina演出服 （井芹仁菜）哭泣少女乐队.png",
-            "type": "free"
+            "texture": "src/Momoka/Momoka_1.png",
+            "type": "free",
+            "localization_name": "Momoka_1"
         },
         {
-            "localization_name": "nina_stage_2",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nina/Iseri nina  井芹仁菜 演出服.png",
-            "type": "free"
+            "texture": "src/Nina/Nina_1.png",
+            "type": "free",
+            "localization_name": "Nina_1"
         },
         {
-            "localization_name": "nina_blink",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nina/井芹仁菜兼容眨眼awa.png",
-            "type": "free"
+            "texture": "src/Nina/Nina_2.png",
+            "type": "free",
+            "localization_name": "Nina_2"
         },
         {
-            "localization_name": "nyamu_amoris",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nyamu/Yutenji-Nyamu-Amoris-BanG-Dream-Ave-Mujica-on-planetminecraft-com.png",
-            "type": "free"
+            "texture": "src/Nina/Nina_3.png",
+            "type": "free",
+            "localization_name": "Nina_3"
         },
         {
-            "localization_name": "nyamu_base",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nyamu/祐天寺若麦.png",
-            "type": "free"
+            "texture": "src/Nyamu/Nyamu_1.png",
+            "type": "free",
+            "localization_name": "Nyamu_1"
         },
         {
-            "localization_name": "rana_mygo",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Rana/#MyGO#要乐奈.png",
-            "type": "free"
+            "texture": "src/Nyamu/Nyamu_2.png",
+            "type": "free",
+            "localization_name": "Nyamu_2"
         },
         {
-            "localization_name": "rana_etf",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Rana/MYGO!!!!!要乐奈ETF眨眼版.png",
-            "type": "free"
+            "texture": "src/Rana/Rana_1.png",
+            "type": "free",
+            "localization_name": "Rana_1"
         },
         {
-            "localization_name": "rupa",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Rupa/鲁帕[Girls Band Cry].png",
-            "type": "free"
+            "texture": "src/Rana/Rana_2.png",
+            "type": "free",
+            "localization_name": "Rana_2"
         },
         {
-            "localization_name": "sakiko_oblivionis",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Sakiko/1000107041-18540076.png",
-            "type": "free"
+            "texture": "src/Rupa/Rupa_1.png",
+            "type": "free",
+            "localization_name": "Rupa_1"
         },
         {
-            "localization_name": "sakiko_tsukinomori",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Sakiko/[FSL] 丰川祥子Sakiko 月之森校服.png",
-            "type": "free"
+            "texture": "src/Sakiko/Sakiko_1.png",
+            "type": "free",
+            "localization_name": "Sakiko_1"
         },
         {
-            "localization_name": "sakiko_haneoka",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Sakiko/[FSL] 丰川祥子Sakiko 羽丘重置.png",
-            "type": "free"
+            "texture": "src/Sakiko/Sakiko_2.png",
+            "type": "free",
+            "localization_name": "Sakiko_2"
         },
         {
-            "localization_name": "soyo",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Soyori/长崎爽世_长崎素世 BanG Dream！.png",
-            "type": "free"
+            "texture": "src/Sakiko/Sakiko_3.png",
+            "type": "free",
+            "localization_name": "Sakiko_3"
         },
         {
-            "localization_name": "subaru_liar",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Subaru/GBC 安和昴 噓つき.png",
-            "type": "free"
+            "texture": "src/Soyori/Soyori_1.png",
+            "type": "free",
+            "localization_name": "Soyori_1"
         },
         {
-            "localization_name": "subaru_casual",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Subaru/安和昴 私.png",
-            "type": "free"
+            "texture": "src/Subaru/Subaru_1.png",
+            "type": "free",
+            "localization_name": "Subaru_1"
         },
         {
-            "localization_name": "subaru_base",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Subaru/安和昴.png",
-            "type": "free"
+            "texture": "src/Subaru/Subaru_2.png",
+            "type": "free",
+            "localization_name": "Subaru_2"
         },
         {
-            "localization_name": "taki_base",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Taki/Taki Shiina椎名立希.png",
-            "type": "free"
+            "texture": "src/Subaru/Subaru_3.png",
+            "type": "free",
+            "localization_name": "Subaru_3"
         },
         {
-            "localization_name": "taki_casual",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Taki/椎名立希 私服.png",
-            "type": "free"
+            "texture": "src/Taki/Taki_1.png",
+            "type": "free",
+            "localization_name": "Taki_1"
         },
         {
-            "localization_name": "tomo",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomo/海老塚智.png",
-            "type": "free"
+            "texture": "src/Taki/Taki_2.png",
+            "type": "free",
+            "localization_name": "Taki_2"
         },
         {
-            "localization_name": "tomori_casual",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomori/[FSL] 高松灯Tomorin 私服.png",
-            "type": "free"
+            "texture": "src/Tomo/Tomo_1.png",
+            "type": "free",
+            "localization_name": "Tomo_1"
         },
         {
-            "localization_name": "tomori_summer",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomori/[FSL] 高松灯Tomorin 羽丘夏季.png",
-            "type": "free"
+            "texture": "src/Tomori/Tomori_1.png",
+            "type": "free",
+            "localization_name": "Tomori_1"
         },
         {
-            "localization_name": "tomori_haneoka",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomori/[FSL] 高松灯Tomorin 羽丘重置.png",
-            "type": "free"
+            "texture": "src/Tomori/Tomori_2.png",
+            "type": "free",
+            "localization_name": "Tomori_2"
         },
         {
-            "localization_name": "uika_doloris",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/Misumi-Uika-Doloris-BanG-Dream-Ave-Mujica-on-planetminecraft-com.png",
-            "type": "free"
+            "texture": "src/Tomori/Tomori_3.png",
+            "type": "free",
+            "localization_name": "Tomori_3"
         },
         {
-            "localization_name": "uika_sumimi",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/[FSL] 三角初华Uika Sumimi.png",
-            "type": "free"
+            "texture": "src/Uika/Uika_1.png",
+            "type": "free",
+            "localization_name": "Uika_1"
         },
         {
-            "localization_name": "uika_casual",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/[FSL] 三角初华Uika 私服.png",
-            "type": "free"
+            "texture": "src/Uika/Uika_2.png",
+            "type": "free",
+            "localization_name": "Uika_2"
         },
         {
-            "localization_name": "uika_winter",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/[FSL] 三角初华Uika 花咲川秋冬.png",
-            "type": "free"
+            "texture": "src/Uika/Uika_3.png",
+            "type": "free",
+            "localization_name": "Uika_3"
         },
         {
-            "localization_name": "umiri_base",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Umiri/AveMujica  umiri八幡海铃.png",
-            "type": "free"
+            "texture": "src/Uika/Uika_4.png",
+            "type": "free",
+            "localization_name": "Uika_4"
         },
         {
-            "localization_name": "umiri_timoris",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Umiri/[FSL] 八幡海铃Umiri Timoris.png",
-            "type": "free"
+            "texture": "src/Umiri/Umiri_1.png",
+            "type": "free",
+            "localization_name": "Umiri_1"
         },
         {
-            "localization_name": "umiri_hanasakigawa",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Umiri/[FSL] 八幡海铃Umiri 花咲川校服.png",
-            "type": "free"
+            "texture": "src/Umiri/Umiri_2.png",
+            "type": "free",
+            "localization_name": "Umiri_2"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "src/Umiri/Umiri_3.png",
+            "type": "free",
+            "localization_name": "Umiri_3"
         }
     ]
-}   
+}

@@ -7,7 +7,7 @@ echo ---------------------------------------------------
 :: 邏輯：取得 src 內所有檔案 -> 算出相對路徑 -> 把反斜線 \ 換成正斜線 / -> 存成 UTF-8 格式
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
     "$basePath = (Get-Location).Path; " ^
-    "Get-ChildItem -Path 'src' -Recurse -File | ForEach-Object { " ^
+    "Get-ChildItem -Path 'pack' -Recurse -File | ForEach-Object { " ^
     "    $relativePath = $_.FullName.Substring($basePath.Length + 1); " ^
     "    $jsonPath = $relativePath.Replace('\', '/'); " ^
     "    Write-Output $jsonPath " ^
