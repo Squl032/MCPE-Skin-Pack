@@ -31,10 +31,16 @@
             "localization_name": "Anon_4"
         },
         {
-            "geometry": "geometry.humanoid.customSlim",
-            "texture": "Anon_5.png",
+            "geometry": "geometry.HDcape1.zombie",
+            "texture": "Anon_3.png",
             "type": "free",
             "localization_name": "Anon_5"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Anon_3.png",
+            "type": "free",
+            "localization_name": "Anon_6"
         },
         {
             "geometry": "geometry.humanoid.custom",
