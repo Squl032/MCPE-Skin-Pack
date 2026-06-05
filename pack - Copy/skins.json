@@ -16,7 +16,7 @@
             "localization_name": "Anon_2"
         },
         {
-            "geometry": "geometry.MiniGameMasters.WolfTumbler", 
+            "geometry": "geometry.MiniGameMasters.WolfTumbler",
             "texture": "Anon_3.png",
             "type": "free",
             "animations": {
@@ -34,15 +34,35 @@
             "geometry": "geometry.humanoid.custom",
             "texture": "Dewier_1.png",
             "type": "free",
+            "localization_name": "Dewier_0"
+        },
+        {
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Dewier_1.png",
+            "type": "free",
             "localization_name": "Dewier_1",
-            "cape": "Dewier_2.png"
+            "cape": "Cape_MMC_15.png"
         },
         {
             "geometry": "geometry.humanoid.custom",
             "texture": "Dewier_1.png",
             "type": "free",
             "localization_name": "Dewier_2",
-            "cape": "Dewier_3.png"
+            "cape": "Cape_Experience.png"
+        },
+        {
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Dewier_1.png",
+            "type": "free",
+            "localization_name": "Dewier_3",
+            "cape": "Cape_Crafter.png"
+        },
+        {
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Dewier_1.png",
+            "type": "free",
+            "localization_name": "Dewier_4",
+            "cape": "Cape_Moonlight_Trail.png"
         },
         {
             "geometry": "geometry.humanoid.custom",
