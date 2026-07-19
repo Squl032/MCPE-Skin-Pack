@@ -102,9 +102,21 @@
         },
         {
             "geometry": "geometry.humanoid.customSlim",
+            "texture": "MM_5.png",
+            "type": "free",
+            "localization_name": "MM_5"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
             "texture": "Momoka_1.png",
             "type": "free",
             "localization_name": "Momoka_1"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Momoka_2.png",
+            "type": "free",
+            "localization_name": "Momoka_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
@@ -123,6 +135,12 @@
             "texture": "Nina_3.png",
             "type": "free",
             "localization_name": "Nina_3"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Nina_4.png",
+            "type": "free",
+            "localization_name": "Nina_4"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
@@ -147,6 +165,12 @@
             "texture": "Rana_2.png",
             "type": "free",
             "localization_name": "Rana_2"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Rana_3.png",
+            "type": "free",
+            "localization_name": "Rana_3"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
@@ -177,6 +201,12 @@
             "texture": "Soyori_1.png",
             "type": "free",
             "localization_name": "Soyori_1"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Soyori_2.png",
+            "type": "free",
+            "localization_name": "Soyori_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
@@ -231,6 +261,12 @@
             "texture": "Tomori_3.png",
             "type": "free",
             "localization_name": "Tomori_3"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Tomori_4.png",
+            "type": "free",
+            "localization_name": "Tomori_4"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
