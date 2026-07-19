@@ -5,19 +5,19 @@
     "skins": [
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/Anon_1.png",
+            "texture": "Anon_1.png",
             "type": "free",
             "localization_name": "Anon_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/Anon_2.png",
+            "texture": "Anon_2.png",
             "type": "free",
             "localization_name": "Anon_2"
         },
         {
-            "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/Anon_3.png",
+            "geometry": "geometry.MiniGameMasters.WolfTumbler",
+            "texture": "Anon_3.png",
             "type": "free",
             "animations": {
                 "move.arms": "animation.player.move.arms.zombie"
@@ -26,237 +26,287 @@
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/Anon_4.png",
+            "texture": "Anon_4.png",
             "type": "free",
             "localization_name": "Anon_4"
         },
         {
-            "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Anon/Anon_5.png",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Dewier_1.png",
             "type": "free",
-            "localization_name": "Anon_5"
+            "localization_name": "Dewier_0"
         },
         {
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/Dewier/Dewier_1.png",
+            "texture": "Dewier_1.png",
             "type": "free",
             "localization_name": "Dewier_1",
-            "cape": "src/Dewier/Dewier_2.png"
+            "cape": "Cape_MMC_15.png"
         },
         {
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/Dewier/Dewier_1.png",
+            "texture": "Dewier_1.png",
             "type": "free",
             "localization_name": "Dewier_2",
-            "cape": "src/Dewier/Dewier_3.png"
+            "cape": "Cape_Experience.png"
         },
         {
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/DT/DT_1.png",
+            "texture": "Dewier_1.png",
+            "type": "free",
+            "localization_name": "Dewier_3",
+            "cape": "Cape_Crafter.png"
+        },
+        {
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Dewier_1.png",
+            "type": "free",
+            "localization_name": "Dewier_4",
+            "cape": "Cape_Moonlight_Trail.png"
+        },
+        {
+            "geometry": "geometry.humanoid.custom",
+            "texture": "DT_1.png",
             "type": "free",
             "localization_name": "DT_1"
         },
         {
             "geometry": "geometry.humanoid.custom",
-            "texture": "src/JE/JE_1.png",
+            "texture": "JE_1.png",
             "type": "free",
             "localization_name": "JE_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/MM_1.png",
+            "texture": "MM_1.png",
             "type": "free",
             "localization_name": "MM_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/MM_2.png",
+            "texture": "MM_2.png",
             "type": "free",
             "localization_name": "MM_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/MM_3.png",
+            "texture": "MM_3.png",
             "type": "free",
             "localization_name": "MM_3"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/MM/MM_4.png",
+            "texture": "MM_4.png",
             "type": "free",
             "localization_name": "MM_4"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Momoka/Momoka_1.png",
+            "texture": "MM_5.png",
+            "type": "free",
+            "localization_name": "MM_5"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Momoka_1.png",
             "type": "free",
             "localization_name": "Momoka_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nina/Nina_1.png",
+            "texture": "Momoka_2.png",
+            "type": "free",
+            "localization_name": "Momoka_2"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Nina_1.png",
             "type": "free",
             "localization_name": "Nina_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nina/Nina_2.png",
+            "texture": "Nina_2.png",
             "type": "free",
             "localization_name": "Nina_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nina/Nina_3.png",
+            "texture": "Nina_3.png",
             "type": "free",
             "localization_name": "Nina_3"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nyamu/Nyamu_1.png",
+            "texture": "Nina_4.png",
+            "type": "free",
+            "localization_name": "Nina_4"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Nyamu_1.png",
             "type": "free",
             "localization_name": "Nyamu_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Nyamu/Nyamu_2.png",
+            "texture": "Nyamu_2.png",
             "type": "free",
             "localization_name": "Nyamu_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Rana/Rana_1.png",
+            "texture": "Rana_1.png",
             "type": "free",
             "localization_name": "Rana_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Rana/Rana_2.png",
+            "texture": "Rana_2.png",
             "type": "free",
             "localization_name": "Rana_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Rupa/Rupa_1.png",
+            "texture": "Rana_3.png",
+            "type": "free",
+            "localization_name": "Rana_3"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Rupa_1.png",
             "type": "free",
             "localization_name": "Rupa_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Sakiko/Sakiko_1.png",
+            "texture": "Sakiko_1.png",
             "type": "free",
             "localization_name": "Sakiko_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Sakiko/Sakiko_2.png",
+            "texture": "Sakiko_2.png",
             "type": "free",
             "localization_name": "Sakiko_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Sakiko/Sakiko_3.png",
+            "texture": "Sakiko_3.png",
             "type": "free",
             "localization_name": "Sakiko_3"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Soyori/Soyori_1.png",
+            "texture": "Soyori_1.png",
             "type": "free",
             "localization_name": "Soyori_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Subaru/Subaru_1.png",
+            "texture": "Soyori_2.png",
+            "type": "free",
+            "localization_name": "Soyori_2"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Subaru_1.png",
             "type": "free",
             "localization_name": "Subaru_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Subaru/Subaru_2.png",
+            "texture": "Subaru_2.png",
             "type": "free",
             "localization_name": "Subaru_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Subaru/Subaru_3.png",
+            "texture": "Subaru_3.png",
             "type": "free",
             "localization_name": "Subaru_3"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Taki/Taki_1.png",
+            "texture": "Taki_1.png",
             "type": "free",
             "localization_name": "Taki_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Taki/Taki_2.png",
+            "texture": "Taki_2.png",
             "type": "free",
             "localization_name": "Taki_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomo/Tomo_1.png",
+            "texture": "Tomo_1.png",
             "type": "free",
             "localization_name": "Tomo_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomori/Tomori_1.png",
+            "texture": "Tomori_1.png",
             "type": "free",
             "localization_name": "Tomori_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomori/Tomori_2.png",
+            "texture": "Tomori_2.png",
             "type": "free",
             "localization_name": "Tomori_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Tomori/Tomori_3.png",
+            "texture": "Tomori_3.png",
             "type": "free",
             "localization_name": "Tomori_3"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/Uika_1.png",
+            "texture": "Tomori_4.png",
+            "type": "free",
+            "localization_name": "Tomori_4"
+        },
+        {
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Uika_1.png",
             "type": "free",
             "localization_name": "Uika_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/Uika_2.png",
+            "texture": "Uika_2.png",
             "type": "free",
             "localization_name": "Uika_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/Uika_3.png",
+            "texture": "Uika_3.png",
             "type": "free",
             "localization_name": "Uika_3"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Uika/Uika_4.png",
+            "texture": "Uika_4.png",
             "type": "free",
             "localization_name": "Uika_4"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Umiri/Umiri_1.png",
+            "texture": "Umiri_1.png",
             "type": "free",
             "localization_name": "Umiri_1"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Umiri/Umiri_2.png",
+            "texture": "Umiri_2.png",
             "type": "free",
             "localization_name": "Umiri_2"
         },
         {
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "src/Umiri/Umiri_3.png",
+            "texture": "Umiri_3.png",
             "type": "free",
             "localization_name": "Umiri_3"
         }
