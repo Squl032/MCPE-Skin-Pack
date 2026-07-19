@@ -4,7 +4,7 @@
 
 ---
 
-Language selector / 言語選択 / 언어 선택：
+語言選擇 / 言語選択 / 언어 선택：
 - [繁體中文](README.md)
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
